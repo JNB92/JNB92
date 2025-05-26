@@ -44,11 +44,11 @@
   <h3 align="center">📊 My GitHub Stats</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JNB92.JNB92&" alt="Visitor Badge"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnb92&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNB92&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jnb92&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNB92&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jnb92&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JNB92&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
 </div>
 
-<br> ```
+<br>
