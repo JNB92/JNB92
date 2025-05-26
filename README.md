@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p><em>I'm a passionate developer exploring the world of code and technology!</em></p>
+  <p><em></em></p>
 </div>
 
 <hr>
